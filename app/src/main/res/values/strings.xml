@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExamenT1</string>
+    <string name="restName">Casa Pepe</string>
+    <string name="insertName">Introduce tu nombre:</string>
+    <string name="name">Nombre...</string>
+    <string name="seats2">2 asientos</string>
+    <string name="seats4">4 asientos</string>
+    <string name="seats8">8 asientos</string>
+</resources>
